@@ -1,0 +1,9 @@
+{
+  "name": "gluby",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "fedapay": "latest",
+    "@netlify/blobs": "latest"
+  }
+}
